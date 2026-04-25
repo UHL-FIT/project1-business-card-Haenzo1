@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Bai_tap_danh_thiep_VuNguyenDucHai_cnttk1b" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
